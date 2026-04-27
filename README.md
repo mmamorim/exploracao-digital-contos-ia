@@ -90,3 +90,7 @@ Alguns exemplos de ponto de partida:
 ---
 
 👉 A partir daqui, você irá construir sua história passo a passo.
+
+---
+
+# 📚 Leituras e Inspirações
