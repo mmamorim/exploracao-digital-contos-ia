@@ -94,3 +94,5 @@ Alguns exemplos de ponto de partida:
 ---
 
 # 📚 Leituras e Inspirações
+
+[Leituras](./leituras.md)
