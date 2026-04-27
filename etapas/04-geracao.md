@@ -37,6 +37,22 @@ Com base na estrutura que construímos, escreva um conto curto com as seguintes 
 - evite clichês e situações genéricas
 
 O texto deve ser interessante de ler, como uma história, e não como uma explicação sobre tecnologia.
+
+Divida a história em blocos narrativos, seguindo esta estrutura:
+
+Introdução (apresentação do personagem e contexto)
+Incidente inicial (evento que inicia o conflito)
+Desenvolvimento (complicações e aprofundamento)
+Clímax (momento de maior tensão)
+Desfecho (resolução)
+
+Gere um bloco por vez e, ao final de cada bloco:
+
+aguarde minha aprovação antes de continuar
+permita que eu peça alterações, acréscimos ou remoções
+sugira 2 ou 3 possíveis caminhos para o próximo bloco
+
+A história deve manter coerência com as decisões feitas ao longo do processo.
 ~~~
 
 ## 📖 O que observar no texto gerado
