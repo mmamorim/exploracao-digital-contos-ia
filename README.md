@@ -1,4 +1,4 @@
-# 🧠 Guia de Criação de Contos sobre Tecnologia com IA
+# 🧠 Guia Criação de Contos de Tecnologia com IA
 
 <img src="./capa.png" style="width: 50%;">
 
