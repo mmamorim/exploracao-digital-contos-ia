@@ -9,6 +9,28 @@ mas **não deve decidir a história por você**.
 
 ---
 
+## 🎭 IA como Ghostwriter (conceito importante)
+
+Na literatura, existe um profissional chamado **ghostwriter** (escritor fantasma):
+
+👉 alguém que escreve um texto para outra pessoa,  
+👉 mas **não aparece como autor**.
+
+Neste projeto, a IA pode assumir esse papel.
+
+> ⚠️ Mas com uma diferença fundamental:
+
+Você continua sendo o autor da ideia, das decisões e da direção da história.
+
+A IA:
+- ajuda a escrever  
+- sugere caminhos  
+- melhora o texto  
+
+Mas **não deve substituir sua criatividade**.
+
+---
+
 ## 🎯 Objetivo desta etapa
 
 Definir a base da sua história:
@@ -36,12 +58,14 @@ Se você pular isso, sua história tende a ficar genérica.
 
 Exemplos:
 
-- E se aplicativos de entrega deixassem de existir?
-- E se algoritmos decidissem tudo por você?
-- E se ninguém pudesse usar dados pessoais?
-- E se avaliações online fossem obrigatórias?
+- E se ninguém pudesse se desconectar da internet?
+- E se suas memórias pudessem ser editadas por empresas?
+- E se sistemas previssem crimes antes de acontecerem?
+- E se sua identidade digital valesse mais do que você?
+- E se uma IA decidisse quem merece oportunidades?
+- E se seus pensamentos pudessem ser monitorados?
 
-👉 Escolha uma ideia que te faça pensar.
+👉 Escolha uma ideia que te faça pensar (ou até incomodar).
 
 ---
 
@@ -85,9 +109,9 @@ Responda de forma simples (sem escrever o conto ainda):
 Exemplos:
 - aplicativo
 - algoritmo
-- sistema de avaliação
+- sistema de recomendação
 - inteligência artificial
-- dados pessoais
+- monitoramento de dados
 
 ---
 
@@ -128,7 +152,7 @@ Exemplos:
 
 Agora que você já tem sua ideia:
 
-👉 vamos usar a IA como **tutora**, não como autora.
+👉 vamos usar a IA como **tutora e ghostwriter**, não como autora.
 
 Siga para:
 
