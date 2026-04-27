@@ -2,6 +2,8 @@
 
 <img src="./capa.png" style="width: 50%;">
 
+### link deste repo: https://github.com/mmamorim/exploracao-digital-contos-ia
+
 ## 🎯 Objetivo
 
 Este guia apresenta um roteiro prático para a criação de um **conto curto** que explore os impactos da tecnologia na vida das pessoas, utilizando a Inteligência Artificial como ferramenta de apoio.
